@@ -1,0 +1,9 @@
+beautifultable==0.8.0
+gym==0.15.7
+mujoco-py==1.50.1.68
+tensorflow-gpu==1.13.1
+torch==1.3.0
+gtimer==1.0.0b5
+pygame==1.9.6
+pandas==1.1.0
+tqdm==4.32.1

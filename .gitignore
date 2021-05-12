@@ -1,0 +1,8 @@
+*.pyc
+log
+res
+__pycache__
+old
+*.pdf
+*.ipynb
+*.ipynb_checkpoints
