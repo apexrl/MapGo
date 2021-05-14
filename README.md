@@ -1,6 +1,6 @@
 # MapGo: Model-Assisted Policy Optimization for Goal-Oriented Tasks
 
-This is the TensorFlow implementation of the paper [MapGo: Model-Assisted Policy Optimization for Goal-Oriented Tasks](arxiv:xxx) accepted by IJCAI2021.
+This is the TensorFlow implementation of the paper [MapGo: Model-Assisted Policy Optimization for Goal-Oriented Tasks](https://arxiv.org/abs/2105.06350) accepted by IJCAI2021.
 
 
 
@@ -27,5 +27,5 @@ Hyperparameters are in ``config.py``.
 
 ## Acknowledgements
 
-Our implementation is based on [HGG](https://github.com/Stilwell-Git/Hindsight-Goal-Generation) and [mbpo](https://github.com/JannerM/mbpo) codebase.
+Our implementation is based on [HGG](https://github.com/Stilwell-Git/Hindsight-Goal-Generation) and [mbpo](https://github.com/JannerM/mbpo) codebase. Some of the environments are based on [multiworld](https://github.com/vitchyr/multiworld).
 
